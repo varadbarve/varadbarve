@@ -1,93 +1,73 @@
 # Varad Barve
 
-> Building products, learning relentlessly, and turning ideas into software.
+### Full-Stack Developer • AI Engineer • Product Builder
 
-I'm a Computer Science student focused on AI engineering, full-stack development, and creating products that solve real problems.
+Building software at the intersection of AI, engineering, and design.
 
-Most of my time is spent building, experimenting, breaking things, fixing them, and repeating the process.
-
----
-
-### Current Focus
-
-* Building AI-powered applications
-* Exploring system design and scalable architectures
-* Creating better developer and user experiences
-* Learning game development
+Currently pursuing a B.Tech in Computer Science while creating products, experimenting with new technologies, and learning how great software is built.
 
 ---
 
-### Philosophy
+## About
 
-```txt
-build()
-fail()
-learn()
-build_again()
-```
+I enjoy building things from scratch.
 
-Progress compounds.
+Whether it's an AI application, a developer tool, or a new product idea, I'm interested in the entire journey—from the first sketch to deployment.
 
----
+My goal isn't just to write code.
 
-### Currently Building
-
-* AI applications and automation workflows
-* Full-stack web products
-* Experimental side projects
-* Developer tools
+It's to build things people genuinely find useful.
 
 ---
 
-### Tech I Enjoy Working With
+## Current Focus
 
-```txt
-Python • TypeScript • JavaScript • C++
-
-React • Next.js • Node.js
-
-OpenAI • LangChain • AI Agents
-
-MongoDB • Firebase • PostgreSQL
-```
+* AI Applications
+* Full-Stack Development
+* System Design
+* Product Thinking
+* Game Development
 
 ---
 
-### Find Me
+## Selected Technologies
 
-🌐 Portfolio: https://varadbarve.tech
+Python · TypeScript · JavaScript · C++
 
-💼 LinkedIn: YOUR_LINKEDIN
+React · Next.js · Node.js
 
-📫 Email: YOUR_EMAIL
+OpenAI · LangChain · AI Agents
+
+PostgreSQL · MongoDB · Firebase
 
 ---
 
-### GitHub
+## Philosophy
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=varadbarve&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadbarve&layout=compact&hide_border=true" />
-</p>
+> Build.
+>
+> Learn.
+>
+> Iterate.
+>
+> Repeat.
+
+---
+
+## Connect
+
+Portfolio → varadbarve.tech
+
+LinkedIn → www.linkedin.com/in/varad-barve-143761280
+
+Email → varadvbarve@gmail.com
 
 ---
 
 ```txt
-transmission.log
+// system.status
 
-status: building
-version: 20.0
-next_objective: ship_something_useful
-signal_strength: stable
+building = true
+learning = true
+finished = false
 ```
-
-<!--
-
-If you're reading this,
-
-you're probably the kind of person
-who checks source code before making decisions.
-
-I respect that.
-
--->
