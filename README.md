@@ -1,6 +1,6 @@
 # Varad Barve
 
-### Full-Stack Developer • AI Engineer • Product Builder
+### Infrastructure • AI Engineer • Automation 
 
 Building software at the intersection of AI, engineering, and design.
 
